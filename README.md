@@ -1,1 +1,1 @@
-Repositório com prompts que utilizo no meu dia a dia.
+Repositório com prompts que utilizo ao meu dia a dia.
